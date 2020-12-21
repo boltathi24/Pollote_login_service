@@ -1,0 +1,17 @@
+{
+    "listeners": {
+        "*:8090": {
+            "pass": "applications/login_app"
+        }
+    },
+
+    "applications": {
+        "login_app": {
+            "type": "python 3",
+            "user": "Kapileson",
+            "path": "/Users/kapileson/Desktop/Pollote_Login_Service",
+            "home": "/Users/kapileson/Desktop/Pollote_Login_Service/venv/",
+            "module": "app"
+        }
+    }
+}
