@@ -1,7 +1,6 @@
 Flask
-pyjwt
+pyjwt==1.5.3
 mongoengine
-pymongo
 passlib
 pyotp
 bcrypt

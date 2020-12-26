@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d033f409-8040-44ca-8414-c39ef5d40235" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/easy_install-3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/flask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/pyjwt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/lib64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/CacheControl-0.12.6-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/certifi-2019.11.28-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/colorama-0.4.3-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/contextlib2-0.6.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/distlib-0.3.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/distro-1.4.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/html5lib-1.0.1-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/idna-2.8-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/ipaddr-2.2.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/msgpack-0.6.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/packaging-20.3-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/pep517-0.8.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/pip-20.0.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/progress-1.5-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/pyparsing-2.4.6-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/pytoml-0.1.21-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/requests-2.22.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/setuptools-44.0.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/six-1.14.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/urllib3-1.25.8-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/webencodings-0.5.1-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/share/python-wheels/wheel-0.34.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mBtniwUtcIihqsKI7sSSV08i1I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d033f409-8040-44ca-8414-c39ef5d40235" name="Default Changelist" comment="" />
+      <created>1608978981087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608978981087</updated>
+    </task>
+    <servers />
+  </component>
+</project>

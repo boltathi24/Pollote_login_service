@@ -22,8 +22,8 @@ def create_app():
 if __name__ == '__main__':
     Util.init_config()
     conn = connect(   db='Pollote',
-    username='**********',
-    password='*********',
+    username='boltathi24',
+    password='ZohoTest@24',
     host='mongodb+srv://cluster0.xckok.mongodb.net').Util.config.DATABASE
     app = create_app()
     app.debug = Util.config.DEBUG
